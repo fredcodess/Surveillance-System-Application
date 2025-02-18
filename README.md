@@ -1,4 +1,3 @@
-````markdown
 # Surveillance System Application
 
 A Python-based application for video analysis, live monitoring, and object detection with features like motion detection, file conversion, and more.
@@ -7,10 +6,10 @@ A Python-based application for video analysis, live monitoring, and object detec
 
 1. **Python Requirements**:  
    Ensure you have Python 3.6 or later installed. Verify using:
+
    ```bash
    python --version
    ```
-````
 
 2. **Install Dependencies**:  
    Install required libraries using `pip`:
@@ -90,7 +89,3 @@ A Python-based application for video analysis, live monitoring, and object detec
 ---
 
 **Note**: For security, change the default login credentials in the code before deployment.
-
-```
-
-```
